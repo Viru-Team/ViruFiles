@@ -5,8 +5,6 @@ if not DevRio:get(Viru..'Rio:Lock:Reply'..msg.chat_id_) then
 if text == "انجب" or text == "نجب" or text == "انجبي" or text == "نجبي" or text == "انجبو" or text == "نجبو" then
 if SudoId(msg) then
 rd = 'مطوريي اغلط شكد متريد نورتنه ، ♥️💪🏿'
-elseif SudoBot(msg) then
-rd = 'مطوريي اغلط شكد متريد نورتنه ، 🖕🏿♥️'
 elseif ManagerAll(msg) then
 rd = 'حبيبي راح اسامحكك لان مدير وع راسي ، 🖐🏿♥️'
 elseif AdminAll(msg) then
