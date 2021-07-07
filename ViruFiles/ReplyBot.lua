@@ -6,7 +6,7 @@ if text == "انجب" or text == "نجب" or text == "انجبي" or text == "ن
 if SudoId(msg) then
 rd = 'مطوريي اغلط شكد متريد نورتنه ، ♥️💪🏿'
 elseif SudoBot(msg) then
-rd = 'احترم نفسكك لا عبالكك رافعيك مطور ، 🖕🏿♥️'
+rd = 'مطوريي اغلط شكد متريد نورتنه ، 🖕🏿♥️'
 elseif ManagerAll(msg) then
 rd = 'حبيبي راح اسامحكك لان مدير وع راسي ، 🖐🏿♥️'
 elseif AdminAll(msg) then
