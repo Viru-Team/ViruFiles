@@ -29,74 +29,74 @@ end
 Dev_Rio(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-ViruTEAM =  "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪"
+ViruTEAM =  "اشوفك التسرسح مالتي؟"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'السلام عليكم' or text == 'سلام عليكم' then 
-ViruTEAM =  "ياھَہّلْاا ۅﻋ̝̚لْيڪْم الْﺳ̭͠ لْام 𖠙 🤤♥️"
+ViruTEAM =  "ھھݪا يࢪوحِيَہ نوࢪت الڪࢪوب كلةة 🦋"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == '😭💔' or text == '😭😭' or text == '😭😭😭' or text == '😿💔' or text == '😭😭😭' or text == '😭😭😭😭' then 
-ViruTEAM =  "مآآعٍآشُ آلُِي يزعٍلُِڪڪ 𖠙 😏♥️"
+ViruTEAM =  "منو ضاربك بوري اجيتني تبجي؟"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == '🌚💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
-ViruTEAM =  "شبّيي اﻟ̣̣פﻟ̣̣و 𖠙 😿💔"
+ViruTEAM =  "شبيكك يول"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'باي' or text == 'بااي' or text == 'اروح' or text == 'اروح احسن' or text == 'اولي احسن' or text == 'راح اروح' or text == 'باي انام' then 
-ViruTEAM =  "أُرٌجُعُ عٍيدِهآآ مٍوو تنِْسةه 𖠙 🤤♥️"
+ViruTEAM =  "  أُالله وياك روح اطمس ابن زربا"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-local ViruTEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
+local ViruTEAM = {"اࠗھھݪا يࢪوحِيَہ نوࢪت الڪࢪوب كلةة 🦋" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
 DevRio2 = math.random(#ViruTEAM) 
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM[DevRio2] , 1, 'md') 
 return false
 end
 if text == 'شونك' or text == 'شونج' or text == 'شلونك' or text == 'شلونج' or text == 'شونكم' or text == 'شلونكم' or text == 'شلخبار' or text == 'شلون الاخبار' or text == 'شخبارك' then 
-local ViruTEAM = {"ماﺷ͠ يةھَہّ يﻋ̝̚مريي ۅاﻧﺗ̲ت 𖠙 🤤♥️" ,"الحۡمۘدللهۂَ ٰوانۨہتت 𖠙 🤤♥️","تمۘامۘ عمۘري ٰوانۨہتت 𖠙 🤤♥️"} 
+local ViruTEAM = {"تمام وانت ححياتي 🍇👋🏿" ,"القالي مشتاقين","اتسس اوكي"} 
 DevRio2 = math.random(#ViruTEAM) 
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM[DevRio2] , 1, 'md') 
 return false
 end
 if text == 'وينك' or text == 'وينج' then
-ViruTEAM =  "مْوٌجہوٌدِ يہمْگُ يحلوُ 𖠙 😉♥️"
+ViruTEAM =  "ﭑنتَ طامس وتجي تصيح 🦦🦦"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
-ViruTEAM =  "اطردكك تجرب ؟ ، 😕🔪"
+ViruTEAM =  "دروح لك معاجبك اطردك ترا 🌚"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'نايمين' or text == 'ميتين' then
-ViruTEAM =  "طُآمسين ووعٍيوونڪ 𖠙 😪🖤ۦ"
+ViruTEAM =  "دروح لك معاجبك اطردك ترا 🌚"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'هلوباي' or text == 'هلو باي' then  
-ViruTEAM =  "شحۡسۜيت مۘنۨہ هيجۚ ּكتبت ؟ 🌝♥️"
+ViruTEAM =  "شتحس 🦦🦦"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
 if text == 'اكلك' or text == 'اكلج' or text == 'اكلكم' then 
-ViruTEAM =  "ڪوولُِ مآڪوولُِ لُِآحٍدِ 𖠙 😉♥️"
+ViruTEAM =  "ححبيبي ڪَول سرك بكهوة 🦦"
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md')
 return false
 end
 if text == 'فرخ' or text == 'فرخه' then
-ViruTEAM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️" 
+ViruTEAM =  "ٰ‏୪ ؏ـمࢪي مادور 🏳️‍🌈" 
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md') 
 return false
 end
-if text == 'سورس ريو' or text == 'سورس ديفد' or text == 'سورس ديفد' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
-ViruTEAM =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪" 
+if text == 'سورس فيرو' or text == 'سورس فايرو' or text == 'سورس فايروس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
+ViruTEAM =  "اسرسح لا اخلي مطوري يطردك ☆" 
 Dev_Rio(msg.chat_id_, msg.id_, 1, ViruTEAM, 1, 'md')
 return false
 end
